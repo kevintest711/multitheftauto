@@ -1,7 +1,7 @@
 /************************************************************************
 	filename: 	CEGUI.h
 	created:	21/2/2004
-	author:		Paul D Turner
+	author:		Paul D Turner KC
 	
 	purpose:	Main system include for client code
 *************************************************************************/
