@@ -1,5 +1,5 @@
 # License here
-#
+# modified here KC
 
 AC_PREREQ(2.61)
 AC_INIT(mta, 1.0-trunk, nospam@mtanet)
